@@ -1,0 +1,23 @@
+const stringConst = "NiGGa";
+console.log(stringConst);
+const numberConst = 416601;
+console.log(numberConst);
+const flagConst = false;
+console.log(flagConst);
+const falseConst = "1029384756";
+console.log(falseConst);
+const symbolConst = "@#!%$^&*(-+=)";
+console.log(symbolConst);
+
+let kifirLet = "Kefir";
+console.log(kifirLet);
+let scenaKifiraLet = 23.99;
+console.log(scenaKifiraLet);
+let voprosProKifirLet = "ti lubish kefir?";
+console.log(voprosProKifirLet);
+let otvetNaVoprosProKifirLet = true;
+console.log(otvetNaVoprosProKifirLet);
+let tyazoliyVoprosProKifirLet = "iz chego sostoit kefir?";
+console.log(tyazoliyVoprosProKifirLet);
+let otvetNaTyazoliyVoprosProKifirLet = " iz chelnogo ili obezzirennogo corovego moloka";
+console.log(otvetNaTyazoliyVoprosProKifirLet);
